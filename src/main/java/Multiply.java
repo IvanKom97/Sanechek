@@ -4,6 +4,7 @@ public class Multiply implements Action{
         return "*";
     }
 
+
     @Override
     public int value(int a, int b) {
         return a * b;

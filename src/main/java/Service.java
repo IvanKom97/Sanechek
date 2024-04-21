@@ -1,6 +1,8 @@
 import java.util.List;
 
 @org.springframework.stereotype.Service
+
+
 public class Service {
     public int res(String move, int ar, int b) {
         int result = 0;
